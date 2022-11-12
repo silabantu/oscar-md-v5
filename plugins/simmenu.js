@@ -8,7 +8,7 @@ let PhoneNumber = require("awesome-phonenumber");
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let hao = ` 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6285850539404".split("@")[0]}*`;
+ *Powered By @${"6289509158681".split("@")[0]}*`;
   let package = JSON.parse(
     await fs.promises
       .readFile(path.join(__dirname, "../package.json"))
