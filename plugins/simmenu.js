@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : OSCAR-MD
 ┆┆⚘ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛
 ┆┆⚘ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛
-┆┆http://wa.me/6285850539404
+┆┆https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt
 ┆┆⚘ 𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${date}
 ┆┆⚘ 𝙹𝚊𝚖: ${time} WIB
 ┆┆⚘ 𝙼𝚘𝚍𝚎: 「 ${mode}  」
