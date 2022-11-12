@@ -160,7 +160,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let ftt = `NOTE 📮 JIKA MENEMUKAN BUG/FITUR EROR SILAHKAN CHAT OWNER KAK JANGAN LUPA SUSCRIBE YOUTUBE BOT SEBAGAI BENTUK SUPORT BOT
 
  *Official Bot By @${"0".split("@")[0]}* 
- *Powered By @${"6285850539404".split("@")[0]}*`;
+ *Powered By @${"6289509158681".split("@")[0]}*`;
   const listMessage = {
     text: `𝙷𝚊𝚒 ${name} Jangan 𝚂𝚙𝚊𝚖 𝚈𝚊`.trim(),
     footer: "Jangan Lupa Suscribe YouTube Bot Yah Kak >//<",
