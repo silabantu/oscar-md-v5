@@ -27,7 +27,7 @@ Jika anda berminat hubungi nomor di bawah!!
 Terimakasih yang sudah mendonasikan untuk bot
 
 Contact person Sewa Bot:
-wa.me/${6285850539404} (Owner)
+wa.me/${6289509158681} (Owner)
 
 *Follow Instagram ku juga kak😼*`
   conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, '𝚂𝚎𝚖𝚞𝚊 𝙿𝚎𝚛𝚒𝚗𝚝𝚊𝚑', '.allmenu', '𝙶𝚛𝚘𝚞𝚙 𝙱𝚘𝚝', '.gcbot', '𝙳𝚘𝚗𝚊𝚜𝚒 𝙺𝚊𝚔', '.donasi', m) 
